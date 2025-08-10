@@ -1,0 +1,119 @@
+{
+  "_index-hVF2zQJ5.js": {
+    "file": "assets/index-hVF2zQJ5.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DFH_81UX.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/Pages/About.jsx": {
+    "file": "assets/About-TuYZysgS.js",
+    "name": "About",
+    "src": "resources/js/Pages/About.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/Layout.jsx",
+      "_index-hVF2zQJ5.js"
+    ]
+  },
+  "resources/js/Pages/BasicWorkflow.jsx": {
+    "file": "assets/BasicWorkflow-BPeFJxHI.js",
+    "name": "BasicWorkflow",
+    "src": "resources/js/Pages/BasicWorkflow.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/Layout.jsx",
+      "_index-hVF2zQJ5.js"
+    ]
+  },
+  "resources/js/Pages/Home.jsx": {
+    "file": "assets/Home-CGJwC3Fh.js",
+    "name": "Home",
+    "src": "resources/js/Pages/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/Layout.jsx",
+      "_index-hVF2zQJ5.js"
+    ]
+  },
+  "resources/js/Pages/Layout.jsx": {
+    "file": "assets/Layout-DD9PeuWj.js",
+    "name": "Layout",
+    "src": "resources/js/Pages/Layout.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/OurServices.jsx": {
+    "file": "assets/OurServices-DFAuQVZn.js",
+    "name": "OurServices",
+    "src": "resources/js/Pages/OurServices.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/Layout.jsx",
+      "_index-hVF2zQJ5.js"
+    ]
+  },
+  "resources/js/Pages/OurTeam.jsx": {
+    "file": "assets/OurTeam-C97e3fD_.js",
+    "name": "OurTeam",
+    "src": "resources/js/Pages/OurTeam.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/Layout.jsx",
+      "_index-hVF2zQJ5.js"
+    ]
+  },
+  "resources/js/Pages/SupportService.jsx": {
+    "file": "assets/SupportService-J14KRRVQ.js",
+    "name": "SupportService",
+    "src": "resources/js/Pages/SupportService.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/Layout.jsx",
+      "_index-hVF2zQJ5.js"
+    ]
+  },
+  "resources/js/Pages/VisionMission.jsx": {
+    "file": "assets/VisionMission-CvkY_hGV.js",
+    "name": "VisionMission",
+    "src": "resources/js/Pages/VisionMission.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/Layout.jsx",
+      "_index-hVF2zQJ5.js"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-CHHmS8mz.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/About.jsx",
+      "resources/js/Pages/BasicWorkflow.jsx",
+      "resources/js/Pages/Home.jsx",
+      "resources/js/Pages/Layout.jsx",
+      "resources/js/Pages/OurServices.jsx",
+      "resources/js/Pages/OurTeam.jsx",
+      "resources/js/Pages/SupportService.jsx",
+      "resources/js/Pages/VisionMission.jsx"
+    ]
+  }
+}
